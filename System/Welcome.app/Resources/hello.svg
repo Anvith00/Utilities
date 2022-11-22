@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 507.99999 285.75"
+   version="1.1"
+   id="svg171"
+   xml:space="preserve"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs168" /><g
+     id="layer1"><g
+       id="g185"
+       transform="matrix(0.8431388,0,0,0.87453325,103.30838,52.832011)"><path
+         stroke="#000000"
+         stroke-linejoin="round"
+         id="path1"
+         stroke-width="15.75px"
+         d="M 36.79032,44.605423 C 53.177019,75.098106 76.447719,8.1752726 65.243619,40.334007 42.239118,106.36298 39.86712,151.77282 39.86712,151.77282 c 0,0 4.585098,-70.596095 33.845699,-70.596095 29.260611,0 -7.7772,69.109885 17.759386,71.339235 25.536515,2.22935 67.761025,-66.131412 41.160415,-67.617636 -26.60049,-1.486223 -37.562315,63.902056 -1.9176,66.131406 35.64481,2.22935 86.61711,-111.569512 55.22841,-114.54198 -31.3886,-2.972467 -32.5549,110.82638 -0.6343,113.79886 31.9207,2.97247 85.3607,-115.664747 52.9081,-117.894097 -32.4527,-2.229351 -35.7471,113.798847 -2.2304,114.541967 21.2805,-1.48624 17.2167,-66.50086 44.8813,-65.014617 39.7022,3.309453 20.4321,76.844947 -7.4149,67.623617 -21.3079,-7.62146 -19.5945,-69.101673 7.5381,-67.61543 19.6492,2.562291 33.1489,28.3442 39.0398,9.710252"
+         fill="none"
+         stroke-linecap="round"
+         style="opacity:1;stroke-width:9.98729;stroke-miterlimit:4;stroke-dasharray:none;stop-opacity:1"><animate
+           dur="5"
+           values="0,1739;1739,0;"
+           begin="0; animate1.end+5s"
+           id="animateSig1"
+           repeatCount="0"
+           fill="freeze"
+           attributeName="stroke-dasharray"
+           attributeType="XML" /></path><rect
+         ry="45.135296"
+         y="-3.2782359"
+         x="-22.543915"
+         height="190.48686"
+         width="338.64334"
+         id="rect95"
+         style="fill:none;fill-rule:evenodd;stroke-width:0.239428;stroke-miterlimit:4;stroke-dasharray:none" /></g></g></svg>
