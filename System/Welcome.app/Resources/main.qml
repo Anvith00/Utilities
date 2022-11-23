@@ -306,9 +306,8 @@ ApplicationWindow {
     Audio { // Could probably play video just as well...
         id : music
         autoPlay : true
-        // loops: Audio.Infinite;
-        source : "test.mp3"
-//        source : "pamgaea-by-kevin-macleod-from-filmmusic-io.ogg"
+        // loops: Audio.Infinite; 
+        source : "pamgaea-by-kevin-macleod-from-filmmusic-io.ogg"
         volume : 1.0
         Behavior on volume {
             NumberAnimation {
