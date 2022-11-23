@@ -27,7 +27,7 @@ ApplicationWindow {
         // window.color = "#00000000"; // ARGB fully transparent
 
 
-        music.volume = 0.5;
+        music.volume = 0.0;
 
         wallpaper.width = window.width;
         wallpaper.height = window.height;
@@ -191,7 +191,8 @@ ApplicationWindow {
                     scale : (window.height / 1080)
                     layer.enabled : true
                     layer.smooth : true
-                    layer.samples : 1000000000
+                    layer.samples : 16
+                    antialiasing: on
 
                     // layer.textureSize : [40000, 4000]
                     vendorExtensionsEnabled : false
@@ -306,7 +307,8 @@ ApplicationWindow {
         id : music
         autoPlay : true
         // loops: Audio.Infinite;
-        source : "pamgaea-by-kevin-macleod-from-filmmusic-io.ogg"
+        source : "test.mp3"
+//        source : "pamgaea-by-kevin-macleod-from-filmmusic-io.ogg"
         volume : 1.0
         Behavior on volume {
             NumberAnimation {
@@ -343,12 +345,12 @@ ApplicationWindow {
                 id: welcomeMovement;
                 NumberAnimation {
                     to : window.width / 2 - welcome.width / 2;
-                    duration : 1500;
+                    duration : 1000;
                     easing.type : Easing.OutQuad;
                 }
                 NumberAnimation {
                     to : 0 - welcome.width;
-                    duration : 1500;
+                    duration : 1000;
                     easing.type : Easing.InQuad;
                 }
                 onRunningChanged: if (!running) 
